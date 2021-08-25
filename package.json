@@ -16,17 +16,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/faahim/happy-birthday.git"
+    "url": "git+https://github.com/suja2117/happy-birthday.git"
   },
   "keywords": [
     "Happy",
     "Birthday"
   ],
-  "author": "Afiur Rahman Fahim",
-  "license": "MIT",
+  "author": "J Sujatha",
+  "license": "IIT",
   "bugs": {
-    "url": "https://github.com/faahim/happy-birthday/issues"
+    "url": "https://github.com/suja2117/happy-birthday/issues"
   },
-  "homepage": "https://github.com/faahim/happy-birthday#readme",
+  "homepage": "https://github.com/suja2117/happy-birthday#readme",
   "dependencies": {}
 }
